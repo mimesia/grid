@@ -1,2 +1,3 @@
-# grid
-Grid for @mimesia.
+# Grid
+
+Grid for [Mimesia](https://mimesia.com/).
